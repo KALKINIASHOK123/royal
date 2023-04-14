@@ -1,0 +1,18 @@
+.model{
+margin: 20px;
+  }
+  input{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  .left{
+    margin-left: 28px;
+  }
+  .box{
+    border: 1px solid #d6d8d2;
+    margin: 30px 449px;
+    padding: 60px;
+    background-color: #d1d5d1;
+    border-radius: 5px;
+  }
